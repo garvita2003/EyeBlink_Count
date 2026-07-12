@@ -56,7 +56,7 @@ Eye Blink Count is a Python computer-vision project that detects and counts eye 
 ## 📂 Project Structure
 
 ```text
-EyeBlink_Count-main/
+EyeBlink_Count/
 ├── blink.py                   # Main blink detection and counting script
 └── README.md                  # Project documentation
 ```
